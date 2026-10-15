@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Env / secrets
+.env
+backend/.env
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+
+# Editors / OS
+.idea/
+.DS_Store
