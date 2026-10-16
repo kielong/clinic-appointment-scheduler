@@ -1,6 +1,6 @@
-# BAPC Clinic — Appointment Scheduler
+#  Clinic Appointment Scheduler
 
-An appointment scheduling system for a primary-care clinic ("BAPC Clinic"), with role-based
+An appointment scheduling system for a primary-care clinic, with role-based
 login, a chat scheduling assistant (LangGraph ReAct agent on Ollama), and an MCP server.
 
 **Read these first:**
