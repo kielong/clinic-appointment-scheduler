@@ -4,8 +4,8 @@ import { AuthProvider } from "@/components/auth-provider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "BAPC — Brownsville Adult & Pediatric Clinic",
-  description: "Appointment scheduling for Brownsville Adult and Pediatric Clinic",
+  title: "BAPC Clinic — Appointment Scheduler",
+  description: "Clinic appointment scheduling",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

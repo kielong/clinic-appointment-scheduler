@@ -1,6 +1,6 @@
-# BAPC — Brownsville Adult & Pediatric Clinic
+# BAPC Clinic — Appointment Scheduler
 
-An appointment scheduling system for Brownsville Adult and Pediatric Clinic, with role-based
+An appointment scheduling system for a primary-care clinic ("BAPC Clinic"), with role-based
 login, a chat scheduling assistant (LangGraph ReAct agent on Ollama), and an MCP server.
 
 **Read these first:**

@@ -11,9 +11,9 @@ logging.basicConfig(
 )
 
 app = FastAPI(
-    title="BAPC — Brownsville Adult & Pediatric Clinic",
+    title="BAPC Clinic — Appointment Scheduler",
     version="0.1.0",
-    description="Appointment scheduling system for Brownsville Adult and Pediatric Clinic",
+    description="Appointment scheduling system for a primary-care clinic",
 )
 
 app.add_middleware(

@@ -53,7 +53,7 @@ export default function DashboardPage() {
   return (
     <div className="p-8">
       <h1 className="text-2xl font-bold tracking-tight mb-2">Dashboard</h1>
-      <p className="text-sm text-gray-500 mb-6">Brownsville Adult &amp; Pediatric Clinic</p>
+      <p className="text-sm text-gray-500 mb-6">BAPC Clinic</p>
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
         <StatCard title="Patients" value={patientCount} icon={Users} />
         <StatCard title="Upcoming Appointments" value={appointments ? upcoming.length : null} icon={Calendar} />

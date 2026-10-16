@@ -15,7 +15,7 @@ Clone this repository:
 
 ```bash
 git clone <your-repo-url>
-cd brownsville-adult-pediatric-clinic
+cd clinic-appointment-scheduler
 ```
 
 ### 2. Bootstrap dependencies
@@ -115,7 +115,7 @@ Open http://localhost:3000 in your browser and sign in. Admins land on the dashb
 ## Project Structure
 
 ```
-brownsville-adult-pediatric-clinic/
+clinic-appointment-scheduler/
 ├── backend/
 │   ├── app/
 │   │   ├── main.py            # FastAPI app, route registration

@@ -134,7 +134,7 @@ function PatientsPageContent() {
                 <label className="block text-xs font-medium text-gray-500 mb-1">Phone</label>
                 <input
                   type="tel"
-                  placeholder="+1-956-555-0100"
+                  placeholder="+1-555-555-0100"
                   value={form.phone ?? ""}
                   onChange={(e) => setForm({ ...form, phone: e.target.value })}
                   className="w-full rounded-md border border-gray-200 px-3 py-2 text-sm"

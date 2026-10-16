@@ -13,7 +13,7 @@ export function AuthCard({
     <div className="flex min-h-screen items-center justify-center px-4 py-10">
       <div className="w-full max-w-sm">
         <div className="mb-6 flex justify-center">
-          <img src="/logo.svg" alt="Brownsville Adult & Pediatric Clinic" className="h-9" />
+          <img src="/logo.svg" alt="BAPC Clinic" className="h-9" />
         </div>
         <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
           <h1 className="text-lg font-semibold">{title}</h1>

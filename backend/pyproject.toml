@@ -1,7 +1,7 @@
 [project]
 name = "bapc-backend"
 version = "0.1.0"
-description = "Brownsville Adult & Pediatric Clinic — appointment scheduling backend"
+description = "Clinic appointment scheduling backend"
 requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.115,<1",
